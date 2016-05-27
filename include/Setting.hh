@@ -1,1 +1,0 @@
-../sample/src/Setting.hh
